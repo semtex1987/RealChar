@@ -10,7 +10,7 @@ faster_whisper==0.9.0
 firebase_admin==6.2.0
 google-cloud-speech==2.23.0
 httpx==0.25.0
-langchain==0.0.308
+langchain==0.2.10
 llama_index==0.8.39.post2
 numpy==1.26.0
 openai==0.27.8
@@ -19,14 +19,14 @@ psycopg2-binary==2.9.9
 pyaudio==0.2.13
 pydantic==2.4.2
 pydub==0.25.1
-pypdf==3.16.2
+pypdf==3.17.0
 pytest==7.4.2
 python-dotenv==1.0.0
 readerwriterlock==1.0.9
 rebyte-langchain>=0.0.5
-Requests==2.31.0
+Requests==2.32.2
 simpleaudio==1.0.4
 SpeechRecognition==3.10.0
 SQLAlchemy==2.0.21
-starlette==0.27
+starlette==0.40.0
 twilio==8.9.0
